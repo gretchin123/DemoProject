@@ -15,5 +15,7 @@ public class Smoke_Demo {
     DataFormatter dataFormatter = new DataFormatter();
     String AutomationResultPassed = "Passed";
     String AutomationResultFailed = "Failed";
+    
+    private static final LoginXpaths loginlocators = new LoginXpaths();
 
 }
